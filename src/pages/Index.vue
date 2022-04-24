@@ -1,5 +1,4 @@
 <template>
-  aaa
   <HelloWorld msg="Hello World Component" />
 </template>
 <script setup lang="ts">
